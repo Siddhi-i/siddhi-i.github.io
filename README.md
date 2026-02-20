@@ -1,4 +1,4 @@
-# 🌐 Siya's Portfolio Website
+# 🌐 Siddhi's Portfolio Website
 
 ## 📌 Project Description
 
